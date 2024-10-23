@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+pandas
+seaborn
+scikit-learn
+bcrypt
+-e .

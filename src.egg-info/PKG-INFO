@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Movie Recommender System Project
+Home-page: https://github.com/GyanPrakashkushwaha/MobileRecommenderSystem
+Author: GyanPrakashkushwaha
+Author-email: gyanp7880@gmail.com
+License-File: LICENSE
+
+
+1. Create virtaul environmen:
+   
+```python
+python -m venv venv
+```
+
+2. activate it.
+```python
+venv/Scripts/activate
+```
+
+
+3. Install the required dependencies:
+```python
+pip install -r requirements.txt
+```
+   
+4. Run the the streamlit app:
+```python
+python main.py
+```
+
